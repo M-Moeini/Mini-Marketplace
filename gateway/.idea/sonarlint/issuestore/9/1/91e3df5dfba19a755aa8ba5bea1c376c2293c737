@@ -1,0 +1,32 @@
+
+J
+java:S1444"/Make this "public static sendedOTP" field final(¤ššÉÿÿÿÿÿ
+N
+java:S1444",Make this "public static otpRes" field final(«²»óüÿÿÿÿ8Ç³¡ê¶/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤â’·
+p
+java:S1104"UMake sendedOTP a static final constant or non-public and provide accessors if needed.(¤ššÉÿÿÿÿÿ
+t
+java:S1104"RMake otpRes a static final constant or non-public and provide accessors if needed.(«²»óüÿÿÿÿ8Ø³¡ê¶/
+u
+java:S1128"SRemove this unused import 'org.springframework.cloud.openfeign.EnableFeignClients'.(Š˜Â®ýÿÿÿÿ8›£ñ–¶/
+s
+java:S1128"VRemove this unused import 'com.Mehdi.SheypoorApp.modules.architecture.SendSMSService'.(Ú¥Ù¯8ß³¡ê¶/
+X	java:S125	"<This block of commented-out lines of code should be removed.(þÆä”8ç³¡ê¶/
+]	java:S125("<This block of commented-out lines of code should be removed.(±×ëÛûÿÿÿÿ8¡´¡ê¶/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¶é±þÿÿÿÿ8³´¡ê¶/
+X	java:S125D"<This block of commented-out lines of code should be removed.(Åÿ¶Ÿ8¶´¡ê¶/
+Y
+java:S2696‚"6Make the enclosing method "static" or remove this set.(Ô’ˆÙúÿÿÿÿ8º´¡ê¶/
+Q	java:S125w"<This block of commented-out lines of code should be removed.(‚­øš
+^	java:S125†"<This block of commented-out lines of code should be removed.( ¬„õýÿÿÿÿ8½´¡ê¶/
+R
+java:S1068"0Remove this unused "usersService" private field.(¡Ý‰ùÿÿÿÿ8¿´¡ê¶/
+M
+java:S1068"0Remove this unused "otpGenerator" private field.(ÿ®«Ú8¿´¡ê¶/
+N
+java:S1068",Remove this unused "maCutill" private field.(ÄÓÿìûÿÿÿÿ8Ê¢é–¶/
+H
+java:S1068"&Remove this unused "ip" private field.(Ä×”Ðþÿÿÿÿ8Ê•î–¶/
+C
+java:S1068"-Remove this unused "ipService" private field.(Ñ¡îõ

@@ -1,0 +1,56 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡î• 
+i
+java:S1104*"SMake ipUtill a static final constant or non-public and provide accessors if needed.(Ÿò©ï
+u
+java:S1128"_Remove this unused import 'com.Mehdi.SheypoorApp.modules.architecture.controller.IPController'.(æ´ðý
+X	java:S125"<This block of commented-out lines of code should be removed.(þÆä”8¦µ¡ê¶/
+ž
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í½À8©µ¡ê¶/
+l	java:S116&"WRename this field "BLOCKED_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÙàÔ
+k	java:S116'"VRename this field "MAX_REQ_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†èÀè
+7
+java:S1170&"!Make this final field static too.(èÙàÔ
+>
+java:S1170'"!Make this final field static too.(†èÀè8®µ¡ê¶/
+X	java:S125"<This block of commented-out lines of code should be removed.(ôé•²8°µ¡ê¶/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ô§«Ã8°µ¡ê¶/
+V	java:S125%"<This block of commented-out lines of code should be removed.(»ÅÚ–ýÿÿÿÿ
+o
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(„¥Ö¢
+V	java:S125)"<This block of commented-out lines of code should be removed.(åÇ±æþÿÿÿÿ
+U
+java:S1854K":Remove this useless assignment to local variable "users1".(î°õíýÿÿÿÿ
+]	java:S1257"<This block of commented-out lines of code should be removed.(Òô¿ìûÿÿÿÿ8Áµ¡ê¶/
+]	java:S125>"<This block of commented-out lines of code should be removed.(­’ó„þÿÿÿÿ8Áµ¡ê¶/
+V	java:S125I"<This block of commented-out lines of code should be removed.(àîµ†ÿÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(Ï™µ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(¿½¢¡ÿÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(õõë×øÿÿÿÿ
+X	java:S125f"<This block of commented-out lines of code should be removed.(÷ÿüö8Êµ¡ê¶/
+X	java:S125i"<This block of commented-out lines of code should be removed.(­ßÚ¦8Êµ¡ê¶/
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ð†åÎøÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(§©©úÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(…”†
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(“³¨Ãüÿÿÿÿ
+Q	java:S125’"<This block of commented-out lines of code should be removed.( Î¦
+W	java:S125•"<This block of commented-out lines of code should be removed.(›†³¹úÿÿÿÿ
+C
+java:S1172§"&Remove these unused method parameters.(ø²Ðj8àµ¡ê¶/
+^	java:S125«"<This block of commented-out lines of code should be removed.(«ëÕËøÿÿÿÿ8áµ¡ê¶/
+\
+java:S1854³"9Remove this useless assignment to local variable "roles".(ÍùÁÖýÿÿÿÿ8âµ¡ê¶/
+\
+java:S1854²"9Remove this useless assignment to local variable "email".(ðÁ§·üÿÿÿÿ8âµ¡ê¶/
+R	java:S125µ"<This block of commented-out lines of code should be removed.(‰¼µ÷
+^	java:S125·"<This block of commented-out lines of code should be removed.(·ƒ¢¶üÿÿÿÿ8äµ¡ê¶/
+F
+java:S1481K"+Remove this unused "users1" local variable.(î°õíýÿÿÿÿ
+M
+java:S1481²"*Remove this unused "email" local variable.(ðÁ§·üÿÿÿÿ8åµ¡ê¶/
+M
+java:S1481³"*Remove this unused "roles" local variable.(ÍùÁÖýÿÿÿÿ8åµ¡ê¶/
+N
+java:S1068!"3Remove this unused "usersController" private field.(™§÷­ûÿÿÿÿ
+J
+java:S1068("4Remove this unused "startedBlockTime" private field.(„¥Ö¢
