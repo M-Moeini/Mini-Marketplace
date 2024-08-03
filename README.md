@@ -1,4 +1,4 @@
-# Mini-Marketplace README
+# Mini-Marketplace
 
 ## Overview
 
