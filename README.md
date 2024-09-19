@@ -1,5 +1,8 @@
 # Mini-Marketplace
 
+## Important Note
+This project was built 3 years ago using Java, Spring Boot, and IntelliJ, tools. At the time, due to my lack of experience with version control, the code was directly pushed to GitHub without following proper CI/CD rules, incremental commits, or best practices. However, after 3 years of experience and growth in this tech stack, I now have sufficient knowledge to improve upon this project. I have decided to update the README and provide more detailed information to reflect the progress made on this incredible project.
+
 ## Overview
 
 Mini-Marketplace is a mini online shop developed in both Monolithic and Microservice architectures using the MVC architectural pattern. It is built with the help of Spring Boot, JPA, Spring Security, and JWT. The project consists of two user panels: one for the website's admin and another for clients.
